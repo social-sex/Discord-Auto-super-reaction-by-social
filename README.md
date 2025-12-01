@@ -8,7 +8,7 @@ it uses discord.js-selfbot module to auto burst react to user's msg so enjoy ts 
 ```
 start
 
-node index.js
+node indec.js  [idk why i miss spelled im retarded xd]
 
 usage
 
