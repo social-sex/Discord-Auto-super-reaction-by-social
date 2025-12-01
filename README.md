@@ -3,9 +3,13 @@ it uses discord.js-selfbot module to auto burst react to user's msg so enjoy ts 
 
 <img width="311" height="258" alt="image" src="https://github.com/user-attachments/assets/358769ff-529e-41cf-94f5-c4711eb8212e" />
 
-# u need nitro for ts btw
+# u need nitro and node js for ts btw
 
 ```
+start
+
+node index.js
+
 usage
 
 ,superreact <user> <emoji emoji2 more>
